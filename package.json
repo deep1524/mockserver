@@ -1,0 +1,23 @@
+{
+  "name": "backand-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deep1524/backand-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deep1524/backand-server/issues"
+  },
+  "homepage": "https://github.com/deep1524/backand-server#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

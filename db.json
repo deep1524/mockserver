@@ -1,0 +1,28 @@
+{
+    "menu": [
+        {
+          "id": 1,
+          "img": "https://media-cdn.tripadvisor.com/media/photo-s/19/1e/1a/3a/pizza-hut.jpg",
+          "title": "pizza",
+          "description": "hot",
+          "price": 499,
+          "rating": 2
+        },
+        {
+          "id": 2,
+          "img": "https://media-cdn.tripadvisor.com/media/photo-s/19/1e/1a/3a/pizza-hut.jpg",
+          "title": "pizza",
+          "description": "hot",
+          "price": 100,
+          "rating": 3
+        },
+        {
+          "id": 3,
+          "img": "https://www.budgetbytes.com/wp-content/uploads/2013/07/Creamy-Tomato-Spinach-Pasta-close.jpg",
+          "title": "pasta",
+          "description": "hot",
+          "price": 45,
+          "rating": 7
+        }
+      ]
+}
